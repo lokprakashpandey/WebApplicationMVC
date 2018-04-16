@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 20, 2017, 3:47:49 PM
+    Author     : lokpr
+*/
+
+* {
+        margin: 0px auto;
+}
+
+body {
+        background-color: #f1f1f1;
+}
+
+#container {
+        width: 960px;
+}
+
+.signupform {
+        width: 460px;
+        padding: 10px;
+        background-color: #abcdef;
+        height: 380px;
+        float: left;
+}
+
+.signinform {
+        width: 460px;
+        padding: 10px;
+        float: left;
+        background-color: #fedcba;
+        height: 120px;
+}
